@@ -1,4 +1,4 @@
-/ip firwall address-list
+/ip firewall address-list
 add list="BOGONS" address=0.0.0.0/0
 add list="BOGONS" address=10.0.0.0/8
 add list="BOGONS" address=100.64.0.0/10
