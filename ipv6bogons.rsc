@@ -1,0 +1,12 @@
+/ipv6 firewall address-list
+add list="BOGONS" address=::/128
+add list="BOGONS" address=::1/128
+add list="BOGONS" address=::ffff:0:0/96
+add list="BOGONS" address=::/96
+add list="BOGONS" address=100::/64
+add list="BOGONS" address=2001:10::/28
+add list="BOGONS" address=2001:db8::/32
+add list="BOGONS" address=fc00::/7
+add list="BOGONS" address=fe80::/10
+add list="BOGONS" address=fec0::/10
+add list="BOGONS" address=ff00::/8
