@@ -10,7 +10,7 @@
 ## Scripting
 ### Pulling and running from Git in ROS
 ```
-/tool fetch url="<GitRepo/ScriptName.rsc"
+/tool fetch url="<GitRepo>/ScriptName.rsc"
 /import ScriptName.rsc
 ```
 
@@ -18,5 +18,5 @@
 
 
 
-# Git README Cheatsheet
+## Git README Cheatsheet
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
