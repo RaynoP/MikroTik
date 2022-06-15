@@ -1,4 +1,3 @@
-```
 /ip firewall address-list
 add list="BOGONS" address=0.0.0.0/8
 add list="BOGONS" address=10.0.0.0/8
@@ -15,4 +14,3 @@ add list="BOGONS" address=203.0.113.0/24
 add list="BOGONS" address=224.0.0.0/4
 add list="BOGONS" address=240.0.0.0/4
 add list="BOGONS" address=255.255.255.255/32
-```
