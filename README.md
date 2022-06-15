@@ -1,8 +1,8 @@
 # MikroTik Repo
 ## Firewall
 1. BogonIP network list
-   - `/tool fetch url="https://raw.githubusercontent.com/RaynoP/MikroTik/main/bogons.rsc"
-   - `/import bogons.rsc
+   - `/tool fetch url="https://raw.githubusercontent.com/RaynoP/MikroTik/main/bogons.rsc"`
+   - `/import bogons.rsc`
 2. 
 
 ## Routing
